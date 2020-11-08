@@ -5,3 +5,5 @@ use "Liste_ASC_mopti", clear
 ** Affiche les 10 premiers enregistrements
 
 list 1/10
+**Lister tous les ASC de la région de Mopti
+list all 
