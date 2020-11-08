@@ -7,3 +7,4 @@ use "Liste_ASC_mopti", clear
 list 1/10
 **Lister tous les ASC de la région de Mopti
 list all 
+use "list_asc"
