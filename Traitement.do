@@ -8,3 +8,5 @@ list 1/10
 **Lister tous les ASC de la région de Mopti
 list all 
 use "list_asc"
+** Statistiques descriptive de variables
+tab age,mi
