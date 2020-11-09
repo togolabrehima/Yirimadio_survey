@@ -10,3 +10,4 @@ list all
 use "list_asc"
 ** Statistiques descriptive de variables
 tab age,mi
+**Traitement de doublon
